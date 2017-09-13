@@ -1,5 +1,5 @@
 name: Cabaret 3, RE:UNION EXCPERT
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /cab3/blog/:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
