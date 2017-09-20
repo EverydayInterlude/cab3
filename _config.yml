@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: RE:UNION Dramaturgy
 description: "Companion dramaturgy blog to Cabaret 3. This site provide a resource and refrence for those that are curious about thie politics and history behind our excerpted production of Sean Devine's RE:UNION."
-baseurl: "/reunion" # the subpath of your site, e.g. /blog
-url: "https://pturgy.github.io/reunion" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cab3" # the subpath of your site, e.g. /blog
+url: "https://pturgy.github.io/cab3" # the base hostname & protocol for your site, e.g. http://example.com
 tagline: "An excerpted production"
 
 # Build settings
